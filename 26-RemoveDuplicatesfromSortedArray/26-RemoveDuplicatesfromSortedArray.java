@@ -1,3 +1,4 @@
+// Last updated: 04/08/2025, 16:31:33
 class Solution {
     public int removeDuplicates(int[] nums) {
         if(nums == null || nums.length == 0) {

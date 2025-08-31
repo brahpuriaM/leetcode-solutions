@@ -1,3 +1,4 @@
+// Last updated: 04/08/2025, 16:31:15
 class Solution {
     public int maxProfit(int[] prices) {
         if(prices == null || prices.length == 0) {

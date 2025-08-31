@@ -1,4 +1,3 @@
-// Last updated: 04/08/2025, 16:31:43
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
