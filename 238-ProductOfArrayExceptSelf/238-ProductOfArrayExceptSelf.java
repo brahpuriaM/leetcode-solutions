@@ -1,6 +1,9 @@
 // Last updated: 31/08/2025, 16:34:33
+
+/**
+ * @author pallavibrahpuria 
+ */
 class Solution {
-    //SCRUM-8
     public int[] productExceptSelf(int[] nums) {
         int[] result = new int[nums.length];
 
